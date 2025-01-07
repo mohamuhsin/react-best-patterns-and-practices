@@ -1,1 +1,1 @@
-# React Patterns & Best Practices
+# React Patterns & Best Practices:
